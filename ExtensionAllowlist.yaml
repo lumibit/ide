@@ -8,6 +8,8 @@ ExtensionAllowlist:
     ms-vsliveshare: true
     visualstudioexptteam: true
     vscjava: true
+    ms-ossdata: true # ms postgresql
+    ms-vscode: true # ms mermaid copilot integration
 
     github: true
     amazonwebservices: true
@@ -44,3 +46,8 @@ ExtensionAllowlist:
     gsgben.fortigate-fortios-syntax: true
     nhoizey.gremlins: true
     njpwerner.autodocstring: true
+    charliermarsh: true # python ruff formater
+
+
+    # Rust
+    rust-lang: true 

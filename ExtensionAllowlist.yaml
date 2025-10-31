@@ -8,6 +8,8 @@ ExtensionAllowlist:
     ms-vsliveshare: true
     visualstudioexptteam: true
     vscjava: true
+    ms-ossdata: true # ms postgresql
+    ms-vscode: true # ms mermaid copilot integration
 
     github: true
     amazonwebservices: true
@@ -57,3 +59,8 @@ ExtensionAllowlist:
 
     #  Utility
     formulahendry.auto-rename-tag: true
+    charliermarsh: true # python ruff formater
+
+
+    # Rust
+    rust-lang: true 

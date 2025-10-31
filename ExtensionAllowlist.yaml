@@ -1,0 +1,16 @@
+ExtensionAllowlist:
+    microsoft: true
+    github: true
+    amazonwebservices: true
+    hashicorp: true
+
+    # internal extensions
+    lumibit: true
+
+    davidanson.vscode-markdownlint: true
+
+    # Latex CI
+    james-yu.latex-workshop: true
+
+    # String Tree from files
+    zhucy.project-tree: true

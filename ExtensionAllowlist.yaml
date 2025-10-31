@@ -8,12 +8,17 @@ ExtensionAllowlist:
     ms-vsliveshare: true
     visualstudioexptteam: true
     vscjava: true
+    ms-ossdata: true # ms postgresql
+    ms-vscode: true # ms mermaid copilot integration
 
     github: true
     amazonwebservices: true
     hashicorp: true
     redhat: true
-
+    graphql: true
+    sonarsource: true
+    eamodio: true
+    
     # Cursor/Anysphere extensions
     anysphere: true
 
@@ -46,9 +51,6 @@ ExtensionAllowlist:
     njpwerner.autodocstring: true
     esbenp.prettier-vscode: true
 
-    # Sonar
-    sonarsource.sonarlint-vscode: true
-
     # Comments
     aaron-bond.better-comments: true
 
@@ -56,11 +58,20 @@ ExtensionAllowlist:
     pkief.material-icon-theme: true
 
     # Git
-    eamodio.gitlens: true
     mhutchie.git-graph: true
 
     # Bookmarks
     alefragnani.bookmarks: true
 
-    # Terraform
-    hashicorp.terraform: true
+    # Themes
+    gantoreno.vscode-vercel-theme: true
+    miguelsolorio.symbols: true
+    bierner.color-info: true
+    naumovs.color-highlight: true
+
+    #  Utility
+    formulahendry.auto-rename-tag: true
+    charliermarsh: true # python ruff formater
+
+    # Rust
+    rust-lang: true 

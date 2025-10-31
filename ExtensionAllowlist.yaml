@@ -18,7 +18,7 @@ ExtensionAllowlist:
     graphql: true
     sonarsource: true
     eamodio: true
-    
+
     # Cursor/Anysphere extensions
     anysphere: true
 
@@ -53,7 +53,7 @@ ExtensionAllowlist:
     nhoizey.gremlins: true
     njpwerner.autodocstring: true
     esbenp.prettier-vscode: true
-    
+
     # Theme
     juanmnl.vscode-theme-mr-pink: true
 
@@ -64,15 +64,11 @@ ExtensionAllowlist:
     #UI
     kamikillerto.vscode-colorize: true
 
-
     # Comments
     aaron-bond.better-comments: true
 
     # Themes
     pkief.material-icon-theme: true
-
-    # Git
-    mhutchie.git-graph: true
 
     # Bookmarks
     alefragnani.bookmarks: true

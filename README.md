@@ -9,6 +9,16 @@ This repository contains VSCode based IDE configurations
 
 ## INSTRUCTIONS
 
-1. `code --list-extensions`
-2. Add relevant extensions or publishers to the `ExtensionAllowlist.yaml`
-3. Submit PullRequest
+1. List your extension with one of the following commands
+2. 
+```sh
+# VSCODE
+code --list-extensions 
+"/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code" --list-extensions
+
+# CURSOR
+"/Applications/Cursor.app/Contents/Resources/app/bin/cursor" --list-extensions
+```
+
+3. Add relevant extensions or publishers to the `ExtensionAllowlist.yaml`
+4. Submit PullRequest

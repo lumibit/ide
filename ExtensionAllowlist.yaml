@@ -46,6 +46,19 @@ ExtensionAllowlist:
     gsgben.fortigate-fortios-syntax: true
     nhoizey.gremlins: true
     njpwerner.autodocstring: true
+
+    # Themes
+    gantoreno.vscode-vercel-theme: true
+    miguelsolorio.symbols: true
+    bierner.color-info: true
+    naumovs.color-highlight: true
+
+    # Graphql
+    graphql.vscode-graphql: true
+    graphql.vscode-graphql-syntax: true
+
+    #  Utility
+    formulahendry.auto-rename-tag: true
     charliermarsh: true # python ruff formater
 
 

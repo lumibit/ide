@@ -44,3 +44,15 @@ ExtensionAllowlist:
     gsgben.fortigate-fortios-syntax: true
     nhoizey.gremlins: true
     njpwerner.autodocstring: true
+    esbenp.prettier-vscode: true
+    
+    # Theme
+    juanmnl.vscode-theme-mr-pink: true
+
+    # Git
+    mhutchie.git-graph: true
+    waderyan.gitblame: true
+
+    #UI
+    kamikillerto.vscode-colorize: true
+

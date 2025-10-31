@@ -1,0 +1,25 @@
+name: PR Check
+
+on:
+    pull_request:
+        types: [opened, synchronize, reopened]
+
+jobs:
+    validate:
+        runs-on: ubuntu-latest
+        steps:
+            - id: checkout
+              name: Checkout
+              uses: actions/checkout@v4
+              with:
+                  fetch-depth: 0
+
+            - id: setup-python
+              name: Setup Python
+              uses: actions/setup-python@v5
+              with:
+                  python-version: "3.13"
+
+            - id: validate-extension-allowlist
+              name: Validate ExtensionAllowlist.yaml
+              run: python3 .github/workflows/validate_extension_allowlist.py

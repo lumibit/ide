@@ -13,7 +13,10 @@ ExtensionAllowlist:
     amazonwebservices: true
     hashicorp: true
     redhat: true
-    
+
+    # Cursor/Anysphere extensions
+    anysphere: true
+
     # internal extensions
     lumibit: true
 
@@ -29,9 +32,6 @@ ExtensionAllowlist:
 
     # String Tree from files
     zhucy.project-tree: true
-
-    # Cursor/Anysphere extensions
-    anysphere: true
 
     # Flutter
     dart-code: true

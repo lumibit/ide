@@ -9,6 +9,6 @@ This repository contains VSCode based IDE configurations
 
 ## INSTRUCTIONS
 
-1. `code --list-extensions``
+1. `code --list-extensions`
 2. Add relevant extensions or publishers to the `ExtensionAllowlist.yaml`
 3. Submit PullRequest

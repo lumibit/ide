@@ -35,6 +35,9 @@ ExtensionAllowlist:
     # Latex
     james-yu.latex-workshop: true
 
+    # Folders
+    vscode-icons-team.vscode-icons: true
+
     # String Tree from files
     zhucy.project-tree: true
 

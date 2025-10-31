@@ -1,16 +1,46 @@
 ExtensionAllowlist:
+    # Microsoft extensions
     microsoft: true
+    ms-azuretools: true
+    ms-python: true
+    ms-toolsai: true
+    ms-vscode-remote: true
+    ms-vsliveshare: true
+    visualstudioexptteam: true
+    vscjava: true
+
     github: true
     amazonwebservices: true
     hashicorp: true
-
+    redhat: true
+    
     # internal extensions
     lumibit: true
 
-    davidanson.vscode-markdownlint: true
+    # THIRD PARTY EXTENSIONS
+    ##############################################################
 
-    # Latex CI
+    # Markdown
+    davidanson.vscode-markdownlint: true
+    takumii.markdowntable: true
+
+    # Latex
     james-yu.latex-workshop: true
 
     # String Tree from files
     zhucy.project-tree: true
+
+    # Cursor/Anysphere extensions
+    anysphere: true
+
+    # Flutter
+    dart-code: true
+
+    # JSON
+    eriklynd.json-tools: true
+
+    # Formatting
+    foxundermoon.shell-format: true
+    gsgben.fortigate-fortios-syntax: true
+    nhoizey.gremlins: true
+    njpwerner.autodocstring: true

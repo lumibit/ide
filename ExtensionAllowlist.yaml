@@ -15,7 +15,10 @@ ExtensionAllowlist:
     amazonwebservices: true
     hashicorp: true
     redhat: true
-
+    graphql: true
+    sonarsource: true
+    eamodio: true
+    
     # Cursor/Anysphere extensions
     anysphere: true
 
@@ -46,6 +49,19 @@ ExtensionAllowlist:
     gsgben.fortigate-fortios-syntax: true
     nhoizey.gremlins: true
     njpwerner.autodocstring: true
+    esbenp.prettier-vscode: true
+
+    # Comments
+    aaron-bond.better-comments: true
+
+    # Themes
+    pkief.material-icon-theme: true
+
+    # Git
+    mhutchie.git-graph: true
+
+    # Bookmarks
+    alefragnani.bookmarks: true
 
     # Themes
     gantoreno.vscode-vercel-theme: true
@@ -53,14 +69,9 @@ ExtensionAllowlist:
     bierner.color-info: true
     naumovs.color-highlight: true
 
-    # Graphql
-    graphql.vscode-graphql: true
-    graphql.vscode-graphql-syntax: true
-
     #  Utility
     formulahendry.auto-rename-tag: true
     charliermarsh: true # python ruff formater
-
 
     # Rust
     rust-lang: true 

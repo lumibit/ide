@@ -8,8 +8,8 @@ ExtensionAllowlist:
     ms-vsliveshare: true
     visualstudioexptteam: true
     vscjava: true
-    ms-ossdata: true # ms postgresql
-    ms-vscode: true # ms mermaid copilot integration
+    ms-ossdata: true
+    ms-vscode: true
 
     github: true
     amazonwebservices: true
@@ -50,6 +50,17 @@ ExtensionAllowlist:
     nhoizey.gremlins: true
     njpwerner.autodocstring: true
     esbenp.prettier-vscode: true
+    
+    # Theme
+    juanmnl.vscode-theme-mr-pink: true
+
+    # Git
+    mhutchie.git-graph: true
+    waderyan.gitblame: true
+
+    #UI
+    kamikillerto.vscode-colorize: true
+
 
     # Comments
     aaron-bond.better-comments: true
@@ -71,7 +82,7 @@ ExtensionAllowlist:
 
     #  Utility
     formulahendry.auto-rename-tag: true
-    charliermarsh: true # python ruff formater
+    charliermarsh: true
 
     # Rust
-    rust-lang: true 
+    rust-lang: true

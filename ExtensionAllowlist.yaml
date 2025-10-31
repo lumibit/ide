@@ -8,6 +8,8 @@ ExtensionAllowlist:
     ms-vsliveshare: true
     visualstudioexptteam: true
     vscjava: true
+    ms-ossdata: true # ms postgresql
+    ms-vscode: true # ms mermaid copilot integration
 
     github: true
     amazonwebservices: true
@@ -56,3 +58,21 @@ ExtensionAllowlist:
     #UI
     kamikillerto.vscode-colorize: true
 
+
+    # Themes
+    gantoreno.vscode-vercel-theme: true
+    miguelsolorio.symbols: true
+    bierner.color-info: true
+    naumovs.color-highlight: true
+
+    # Graphql
+    graphql.vscode-graphql: true
+    graphql.vscode-graphql-syntax: true
+
+    #  Utility
+    formulahendry.auto-rename-tag: true
+    charliermarsh: true # python ruff formater
+
+
+    # Rust
+    rust-lang: true 

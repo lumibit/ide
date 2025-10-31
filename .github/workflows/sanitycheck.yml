@@ -1,4 +1,4 @@
-name: PR Check
+name: ExtensionAllowlist sanity check
 
 on:
     pull_request:

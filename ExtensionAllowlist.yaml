@@ -47,6 +47,9 @@ ExtensionAllowlist:
     # JSON
     eriklynd.json-tools: true
 
+    # Toml
+    tamasfe.even-better-toml: true
+
     # Formatting
     foxundermoon.shell-format: true
     gsgben.fortigate-fortios-syntax: true

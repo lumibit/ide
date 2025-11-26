@@ -32,6 +32,9 @@ ExtensionAllowlist:
     davidanson.vscode-markdownlint: true
     takumii.markdowntable: true
 
+    # Mermaid diagram
+    bierner.markdown-mermaid: true
+
     # Latex
     james-yu.latex-workshop: true
 
